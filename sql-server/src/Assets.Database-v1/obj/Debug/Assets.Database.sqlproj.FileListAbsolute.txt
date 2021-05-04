@@ -1,0 +1,6 @@
+C:\Users\happy.DESKTOP-7VOR5SQ\labs\windows\sql-server\src\Assets.Database-v1\bin\Debug\Assets.Database.dacpac
+C:\Users\happy.DESKTOP-7VOR5SQ\labs\windows\sql-server\src\Assets.Database-v1\bin\Debug\Assets.Database.dll
+C:\Users\happy.DESKTOP-7VOR5SQ\labs\windows\sql-server\src\Assets.Database-v1\bin\Debug\Assets.Database.pdb
+C:\Users\happy.DESKTOP-7VOR5SQ\labs\windows\sql-server\src\Assets.Database-v1\obj\Debug\Assets.Database.sqlprojAssemblyReference.cache
+C:\Users\happy.DESKTOP-7VOR5SQ\labs\windows\sql-server\src\Assets.Database-v1\obj\Debug\Assets.Database.dll
+C:\Users\happy.DESKTOP-7VOR5SQ\labs\windows\sql-server\src\Assets.Database-v1\obj\Debug\Assets.Database.pdb
